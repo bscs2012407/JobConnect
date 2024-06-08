@@ -1,0 +1,10 @@
+# How the homepage is working?
+# History of jobs posted by employee of a company (company profile)
+# History of jobs applied by the candidate (candidate profile)
+# unique employee job post.
+# skill to skill match.
+# job title search on homepage.
+# analytic dashboard
+#     - (total job posts count of that company, total applied applicants on all jobs of that company) + bar graph (per job applicants (x axis days of week, y axis no. of applicants in each day). 
+#     - (total job posts count in the system, total applied jobs by the user) + bar graph (per job applicants (x axis days of week, y axis no. of jobs applied by the candidate in each day). 
+# page to pdf (maybe). 
